@@ -4,7 +4,7 @@ hostfile=$1
 portfile=$2
 
 #error checking
-
+###
 #check if file is .txt
 
 if [[ $1 != *".txt" ]]; then
